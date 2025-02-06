@@ -16,7 +16,7 @@ export default function Hero() {
         className="text-center"
       >
         <ShinyText className="text-5xl font-bold mb-4">Hi, My name is Aniket Kadam</ShinyText>
-        <h2 className="text-3xl mb-6 text-muted-foreground">I'm a Full Stack Developer</h2>
+        <h2 className="text-3xl mb-6 text-muted-foreground">I&apos;m a Full Stack Developer</h2>
         <div className="flex space-x-4 align-middle justify-center">
           <Button asChild>
             <motion.a href="#contact" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>

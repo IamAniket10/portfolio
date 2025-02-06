@@ -13,7 +13,7 @@ export default function About() {
                     transition={{ duration: 0.5, delay: 0.2 }}
                     className="text-lg max-w-2xl mx-auto text-center text-muted-foreground"
                 >
-                    I'm a full-stack developer with a passion for building beautiful and functional websites. When I'm not coding, you can find me running for marathon or playing with my cats.
+                    I&apos;m a full-stack developer with a passion for building beautiful and functional websites. When I&apos;m not coding, you can find me running for marathon or playing with my cats.
                 </motion.p>
             </div>
         </section>
