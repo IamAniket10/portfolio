@@ -24,7 +24,7 @@ export default function Hero() {
             </motion.a>
           </Button>
           <Button variant="outline" asChild>
-            <motion.a href="/Aniket_Kadam.pdf" download whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+            <motion.a href="https://drive.google.com/file/d/1ImY9AvAqkngtNCKHNqUlpD-TT6JqRlyg/view?usp=drivesdk" download whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
               Download my Resume
             </motion.a>
           </Button>
